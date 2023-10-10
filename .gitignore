@@ -1,0 +1,65 @@
+# Project exclude paths
+/.gradle/
+/Bulls and Cows/task/build/
+/Bulls and Cows/task/out/
+/Bulls and Cows/task/out/production/classes/
+/Topics/Arrays as parameters/Application as a class/out/
+/Topics/Arrays as parameters/Application as a class/out/production/classes/
+/Topics/Arrays as parameters/Theory/out/
+/Topics/Arrays as parameters/Theory/out/production/classes/
+/Topics/Declaring a method/Vowel or not/out/
+/Topics/Declaring a method/Vowel or not/out/production/classes/
+/Topics/Floating-point types/Area of a circle/out/
+/Topics/Floating-point types/Area of a circle/out/production/classes/
+/Topics/Floating-point types/Exponential expression/out/
+/Topics/Floating-point types/Exponential expression/out/production/classes/
+/Topics/Floating-point types/Liquid pressure/out/
+/Topics/Floating-point types/Liquid pressure/out/production/classes/
+/Topics/Functional decomposition/Calculator with four methods/out/
+/Topics/Functional decomposition/Calculator with four methods/out/production/classes/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Decrement all/out/production/classes/
+/Topics/Instance methods/Counter/out/
+/Topics/Instance methods/Counter/out/production/classes/
+/Topics/Integer types and operations/Difference of times/out/
+/Topics/Integer types and operations/Difference of times/out/production/classes/
+/Topics/Iterating over arrays/Does an array contain N/out/
+/Topics/Iterating over arrays/Does an array contain N/out/production/classes/
+/Topics/Iterating over arrays/Triples/out/
+/Topics/Iterating over arrays/Triples/out/production/classes/
+/Topics/Math library/The angle between vectors/out/
+/Topics/Math library/The angle between vectors/out/production/classes/
+/Topics/Objects/Army/out/
+/Topics/Objects/Army/out/production/classes/
+/Topics/Overloading/Overloading methods/out/
+/Topics/Overloading/Overloading methods/out/production/classes/
+/Topics/Overview of the basic program/Hello, Java/out/
+/Topics/Overview of the basic program/Hello, Java/out/production/classes/
+/Topics/Package/Sorting arrays/out/
+/Topics/Package/Sorting arrays/out/production/classes/
+/Topics/Printing data/Printing a magic letter/out/
+/Topics/Printing data/Printing a magic letter/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
+/Topics/Processing strings/Generating passwords/out/
+/Topics/Processing strings/Generating passwords/out/production/classes/
+/Topics/Processing strings/The lucky ticket/out/
+/Topics/Processing strings/The lucky ticket/out/production/classes/
+/Topics/Random/Gaussian random numbers/out/
+/Topics/Random/Gaussian random numbers/out/production/classes/
+/Topics/String/Check prefix ignoring the case/out/
+/Topics/String/Check prefix ignoring the case/out/production/classes/
+/Topics/String/Theory/out/
+/Topics/String/Theory/out/production/classes/
+/Topics/StringBuilder/Concat all strings without digits/out/
+/Topics/StringBuilder/Concat all strings without digits/out/production/classes/
+/Topics/StringBuilder/Love of big letters/out/
+/Topics/StringBuilder/Love of big letters/out/production/classes/
+/Topics/StringBuilder/The English alphabet/out/
+/Topics/StringBuilder/The English alphabet/out/production/classes/
+/Topics/Switch statement/Shape/out/
+/Topics/Switch statement/Shape/out/production/classes/
+/Topics/The for-loop/The count of numbers divisible by N/out/
+/Topics/The for-loop/The count of numbers divisible by N/out/production/classes/
+/Topics/The while and do-while loops/The sum of elements/out/
+/Topics/The while and do-while loops/The sum of elements/out/production/classes/
